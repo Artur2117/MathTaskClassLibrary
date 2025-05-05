@@ -1,0 +1,6 @@
+C:\Users\ycddy\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.dll
+C:\Users\ycddy\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.pdb
+C:\Users\ycddy\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ycddy\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ycddy\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.dll
+C:\Users\ycddy\source\repos\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.pdb
